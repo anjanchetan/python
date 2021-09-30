@@ -1,3 +1,7 @@
-// To print use print keyword
+# To print use print keyword
 
-print("Hello Welcome to python coding")
+#Using semicolon
+print("Hello Welcome to python coding");
+
+#without semicolon
+print("This is my own code")
